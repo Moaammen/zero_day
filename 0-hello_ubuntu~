@@ -1,5 +1,0 @@
-Command 'unname' not found, did you mean:
-  command 'uniname' from deb uniutils (2.27-2build1)
-  command 'uuname' from deb uucp (1.07-27build3)
-  command 'uname' from deb coreutils (8.32-4.1ubuntu1)
-Try: sudo apt install <deb name>
